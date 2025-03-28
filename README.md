@@ -1,2 +1,2 @@
-# practico_1_2025
+# pv2025
 Repositorio de programación visual 
